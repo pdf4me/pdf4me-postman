@@ -11,6 +11,6 @@ To use this PDF4me Postman collection, you need to have an account on the PDF4me
 
 You will find a Primary Key and Secondary Key listed in the page.
 You can pass this key in the following format as Authorization header to access our API's.
-Format : Basic <Your Key>
+Format : Basic {{API Key}}
 
 You're now ready to start using this integration.
