@@ -10,7 +10,7 @@ To use this PDF4me Postman collection, you need to have an account on the PDF4me
 - Select an application or Create a new application and go to the Keys tab.
 
 You will find a Primary Key and Secondary Key listed in the page.
-You can pass this key in the following format to add the PDF4me connector in Microsoft Flow.
+You can pass this key in the following format as Authorization header to access our API's.
 Format : Basic <Your Key>
 
 You're now ready to start using this integration.
