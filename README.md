@@ -1,35 +1,55 @@
-# PDF4me-Postman-Collection
+# PDF4me Postman Collection
 
-PDF4me API's lets you integrate a lot of PDF related tasks with your application development. You can integrate PDF4me API's with your code in easy steps. To know about the integration & more, visit our documentation page: [PDF4me : Getting Started](https://developer.pdf4me.com/docs/api/getting-started/)
+Easily integrate powerful PDF features into your applications using the PDF4me API. This repository provides a ready-to-use Postman collection for exploring and testing PDF4me endpoints.
 
-To use this PDF4me Postman collection, you need to have an account on the PDF4me Developer Portal. Follow steps below to get your Subscription Key.
+## 📄 API Documentation
 
-### How to get PDF4me Subscription Key
-- [Register](https://portal.pdf4me.com/) SignUp in PDF4me Developer Portal.
-- Go to [Subscriptions](https://portal.pdf4me.com/subscription/overview) tab in the Developer Portal.
-- Select an application or Create a new application and go to the Keys tab.
+- **Developer Portal & API Docs:** [PDF4me Developer Portal](https://dev.pdf4me.com/)
+- **Latest Postman Collection:** [Download here](https://developer.pdf4me-dev.net/apiv2/documentation/postman/)
 
-![key](https://developer.pdf4me.com/wp-content/uploads/2019/03/2019-03-05_114456-768x464.png)
+## 🚀 Getting Started
 
-You will find a Primary Key and Secondary Key listed in the page.
-You can pass this key in the following format as Authorization header to access our API's.
-Format : Basic {{API Key}}
+### 1. Get Your PDF4me Subscription Key
 
-### How to ADD API Key to Postman Collection?
-- After importing json file, click on three dots to edit the collection.
+1. [Register](https://dev.pdf4me.com/) for a free account on the PDF4me Developer Portal.
+2. Go to the [API Keys Dashboard](https://dev.pdf4me.com/dashboard/#/api-keys).
+3. Select or create an application, then navigate to the **Keys** tab.
+4. Copy your **Primary Key** or **Secondary Key**.
 
-![edit-collection](https://developer.pdf4me.com/wp-content/uploads/2021/03/edit-collection.png)
+> **Authorization Format:**
+> - Use your key as a Basic Auth header: `Basic {{API Key}}`
 
-- In Edit Collection, select Variables tab.
-- Edit the default values with your API Key and Update Collection.
+---
 
-![set-token](https://developer.pdf4me.com/wp-content/uploads/2021/03/set-token.png)
+### 2. Import the Postman Collection
 
-### How to use the test files with your Postman API collection?
-- After importing json file, click on settings icon from top bar.
-- Change your working directory to your postman collection extracted folder location.
+1. [Download the latest collection](https://dev.pdf4me.com/apiv2/documentation/postman/).
+2. Open Postman and click **Import**.
+3. Select the downloaded JSON file.
 
-![set-path](https://developer.pdf4me.com/wp-content/uploads/2021/03/set-working-directory.png)
+---
 
+### 3. Configure Your API Key in Postman
 
-You're now ready to start using Postman Collection.
+1. Click the three dots next to the imported collection and select **Edit**.
+2. Go to the **Variables** tab.
+3. Set the default value of the API Key variable to your subscription key.
+4. Click **Update** to save.
+
+---
+
+### 4. Using Test Files
+
+1. Click the settings icon (top right in Postman).
+2. Change your working directory to the folder containing your test files.
+
+---
+
+## 🛠️ Support & Resources
+- [PDF4me Developer Portal](https://dev.pdf4me.com/)
+- [API Documentation](https://dev.pdf4me.com/documentation/)
+- [Contact Support](https://dev.pdf4me.com/contact/)
+
+---
+
+You're now ready to start using the PDF4me Postman Collection!
