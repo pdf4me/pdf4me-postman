@@ -23,7 +23,7 @@ Easily integrate powerful PDF features into your applications using the PDF4me A
 
 ### 2. Import the Postman Collection
 
-1. [Download the latest collection](https://github.com/pdf4me/pdf4me-postman/blob/main/PDF4me_postman.json).
+1. [Download the latest collection](https://github.com/pdf4me/pdf4me-postman/blob/main/PDF4me_postman.json)
 2. Open Postman and click **Import**.
 3. Select the downloaded JSON file.
 
