@@ -5,7 +5,7 @@ Easily integrate powerful PDF features into your applications using the PDF4me A
 ## 📄 API Documentation
 
 - **Developer Portal & API Docs:** [PDF4me Developer Portal](https://dev.pdf4me.com/)
-- **Latest Postman Collection:** [Download here](https://github.com/pdf4me/pdf4me-postman)
+- **Latest Postman Collection:** [Download here](https://github.com/pdf4me/pdf4me-postman/blob/main/PDF4me_postman.json)
 
 ## 🚀 Getting Started
 
@@ -23,7 +23,7 @@ Easily integrate powerful PDF features into your applications using the PDF4me A
 
 ### 2. Import the Postman Collection
 
-1. [Download the latest collection](https://github.com/pdf4me/pdf4me-postman).
+1. [Download the latest collection](https://github.com/pdf4me/pdf4me-postman/blob/main/PDF4me_postman.json).
 2. Open Postman and click **Import**.
 3. Select the downloaded JSON file.
 
